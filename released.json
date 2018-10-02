@@ -1,5 +1,49 @@
 [
   {
+    "title": "The Persistence",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP3536-CUSA07643_00-FRONTIER25202048/1536295615000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "24 Jul 2018",
+    "hasDisc": "",
+    "genre": "Horror",
+    "developer": "<a target=\"_blank\" href=\"https://firesprite.com\">Firesprite Limited</a>",
+    "numberOfPlayers": "1 Player",
+    "PSProEnhanced": "",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": false,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "VRobot",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP3390-CUSA11669_00-VROBOTVROBOTVROB/1536292315000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "24 Jul 2018",
+    "hasDisc": "",
+    "genre": "Action",
+    "developer": "Nival International Limited",
+    "numberOfPlayers": "1 Player",
+    "PSProEnhanced": "",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": false,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "Hopalong: The Badlands",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP3780-CUSA10064_00-0123456789ABCDEF/1536280980000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "17 Jul 2018",
@@ -57,7 +101,7 @@
       "dualshock": false,
       "flightstick": false,
       "move": true,
-	  "nav": true,
+      "nav": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
@@ -6580,8 +6624,7 @@
   },
   {
     "title": "100ft Robot Golf",
-    "image":
-      "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP0476-CUSA04678_00-100FTKAIJUBUNDLE/1536295510000/image?w=240&h=240&bg_color=000000&opacity=100&_version=00_09_000",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP0476-CUSA04678_00-100FTKAIJUBUNDLE/1536295510000/image?w=240&h=240&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "10 Oct 2016",
     "hasDisc": "&#x2717;",
     "genre": "Sport",
