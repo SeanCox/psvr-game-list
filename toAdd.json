@@ -376,17 +376,17 @@
   {
     "title": "VRobot",
     "image": "url",
-    "releaseDate": "dd mon 2018",
-    "hasDisc": "&#x2717;",
-    "genre": "genre",
-    "developer": "<a target=\"_blank\" href=\"http://www.dev.com/\">dev</a>",
+    "releaseDate": "24 Jul 2018",
+    "hasDisc": "",
+    "genre": "Action",
+    "developer": "Nival International Limited",
     "numberOfPlayers": "1 Player",
-    "PSProEnhanced": "&#x2717",
+    "PSProEnhanced": "",
     "controlTypes": {
       "aim": false,
       "dualshock": false,
       "flightstick": false,
-      "move": false,
+      "move": true,
       "psvr": false,
       "virzoom": false,
       "wheel": false
