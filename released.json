@@ -1,5 +1,27 @@
 [
   {
+    "title": "Detached",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP4745-CUSA12164_00-DETACHED000000US/1536032362000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "24 Jul 2018",
+    "hasDisc": "",
+    "genre": "Adventure",
+    "developer": "<a target=\"_blank\" href=\"http://ansharstudios.com/\">ANSHAR STUDIOS </a>",
+    "numberOfPlayers": "1 Player",
+    "PSProEnhanced": "",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": false,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "The Persistence",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP3536-CUSA07643_00-FRONTIER25202048/1536295615000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "24 Jul 2018",
