@@ -1,5 +1,27 @@
 [
   {
+    "title": "Sea of memories",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP2787-CUSA12922_00-0000000000000000/1535955456000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "26 Jul 2018",
+    "hasDisc": "",
+    "genre": "Puzzle",
+    "developer": "<a target=\"_blank\" href=\"http://www.ivanovichgames.com/web/\">Ivanovich Games SL</a>",
+    "numberOfPlayers": "1 Player",
+    "PSProEnhanced": "",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "Detached",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP4745-CUSA12164_00-DETACHED000000US/1536032362000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "24 Jul 2018",
