@@ -1,5 +1,27 @@
 [
   {
+    "title": "Bow to Blood",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP3669-CUSA09964_00-BOWTOBLOOD000001/1538002328000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "28 Aug 2018",
+    "hasDisc": "",
+    "genre": "Action",
+    "developer": "<a target=\"_blank\" href=\"http://tribetoy.com/index.html\">Tribetoy Inc.</a>",
+    "numberOfPlayers": "1 Player",
+    "PSProEnhanced": "&#x2717",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "Torn",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP1032-CUSA09584_00-ASPYRTORNREL0001/1536627188000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "28 Aug 2018",
