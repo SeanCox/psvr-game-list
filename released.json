@@ -1,5 +1,49 @@
 [
   {
+    "title": "Domino Craft VR",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP3487-CUSA12855_00-0000000000000000/1534561012000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "14 Aug 2018",
+    "hasDisc": "",
+    "genre": "Simulation, Casual",
+    "developer": "<a target=\"_blank\" href=\"http://www.lusionsoft.com\">Shanghai Lusion Computer Software Co. Ltd.</a>",
+    "numberOfPlayers": "1 Player",
+    "PSProEnhanced": "&#x2717",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": false,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "VROOM KABOOM",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP3900-CUSA09670_00-VROOMKABOOM00001/1536278861000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "14 Aug 2018",
+    "hasDisc": "",
+    "genre": "Action",
+    "developer": "<a target=\"_blank\" href=\"https://www.ratloopgamescanada.com\">Ratloop Games Canada</a>",
+    "numberOfPlayers": "1-6 Players",
+    "PSProEnhanced": "",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "Electronauts",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP2292-CUSA11387_00-EN1RELEASE000001/1536292266000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "07 Aug 2018",
