@@ -1,5 +1,27 @@
 [
   {
+    "title": "Firewall: Zero Hour",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP9000-CUSA09831_00-FIREWALL00000000/1538493208000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "28 Aug 2018",
+    "hasDisc": "",
+    "genre": "Action, Shooter",
+    "developer": "<a target=\"_blank\" href=\"https://www.sie.com/en/index.html\">Sony Interactive Entertainment</a>",
+    "numberOfPlayers": "1-8 Players",
+    "PSProEnhanced": "&#x2717",
+    "controlTypes": {
+      "aim": true,
+      "dualshock": true,
+      "flightstick": false,
+      "move": false,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "Bow to Blood",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP3669-CUSA09964_00-BOWTOBLOOD000001/1538002328000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "28 Aug 2018",
