@@ -1,5 +1,49 @@
 [
   {
+    "title": "PieceFall",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP1521-CUSA03405_00-PIECEFALLUSAGAME/1535935841000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "31 Mar 2018",
+    "hasDisc": "",
+    "genre": "Puzzle",
+    "developer": "<a target=\"_blank\" href=\"https://www.shu.ac.uk/about-this-website/freedom-of-information/publication-scheme-for-sheffield-hallam-university-enterprises-limited-shuel\">Sheffield Hallam University Enterprises Limited</a>",
+    "numberOfPlayers": "1 Player",
+    "PSProEnhanced": "",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": false,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
+    "title": "Pixel Ripped 1989",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP4906-CUSA12322_00-6663429942732996/1537927774000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "31 Jul 2018",
+    "hasDisc": "",
+    "genre": "Action, Adventure",
+    "developer": "<a target=\"_blank\" href=\"http://arvore.io/#steptotheline\">Arvore Immersive Experiences, LLC</a>",
+    "numberOfPlayers": "1 Player",
+    "PSProEnhanced": "",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": false,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "Sea of memories",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP2787-CUSA12922_00-0000000000000000/1535955456000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "26 Jul 2018",

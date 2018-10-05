@@ -262,49 +262,5 @@
     "crossPlatform": { "rift": false, "vive": false },
     "amazon": "",
     "psn": ""
-  },
-  {
-    "title": "PieceFall",
-    "image": "url",
-    "releaseDate": "dd mon 2018",
-    "hasDisc": "&#x2717;",
-    "genre": "genre",
-    "developer": "<a target=\"_blank\" href=\"http://www.dev.com/\">dev</a>",
-    "numberOfPlayers": "1 Player",
-    "PSProEnhanced": "&#x2717",
-    "controlTypes": {
-      "aim": false,
-      "dualshock": false,
-      "flightstick": false,
-      "move": false,
-      "psvr": false,
-      "virzoom": false,
-      "wheel": false
-    },
-    "crossPlatform": { "rift": false, "vive": false },
-    "amazon": "",
-    "psn": ""
-  },
-  {
-    "title": "Pixel Ripped 1989",
-    "image": "url",
-    "releaseDate": "dd mon 2018",
-    "hasDisc": "&#x2717;",
-    "genre": "genre",
-    "developer": "<a target=\"_blank\" href=\"http://www.dev.com/\">dev</a>",
-    "numberOfPlayers": "1 Player",
-    "PSProEnhanced": "&#x2717",
-    "controlTypes": {
-      "aim": false,
-      "dualshock": false,
-      "flightstick": false,
-      "move": false,
-      "psvr": false,
-      "virzoom": false,
-      "wheel": false
-    },
-    "crossPlatform": { "rift": false, "vive": false },
-    "amazon": "",
-    "psn": ""
   }
 ]
