@@ -1,5 +1,27 @@
 [
   {
+    "title": "Electronauts",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP2292-CUSA11387_00-EN1RELEASE000001/1536292266000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "07 Aug 2018",
+    "hasDisc": "",
+    "genre": "Action, MUSIC/RHYTHM",
+    "developer": "<a target=\"_blank\" href=\"https://survios.com\">Survios, Inc.</a>",
+    "numberOfPlayers": "1 Player",
+    "PSProEnhanced": "",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": false,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "Wild Turkey Hunter VR",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP2194-CUSA12273_00-PSRTURKEYHUNTVR1/1535855730000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "03 Aug 2018",
