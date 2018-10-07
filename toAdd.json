@@ -1,5 +1,27 @@
 [
   {
+    "title": "Astro Bot Rescue Mission",
+    "image": "url",
+    "releaseDate": "dd mon 2018",
+    "hasDisc": "&#x2717;",
+    "genre": "genre",
+    "developer": "<a target=\"_blank\" href=\"http://www.dev.com/\">dev</a>",
+    "numberOfPlayers": "1 Player",
+    "PSProEnhanced": "&#x2717",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": false,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "Creed: Rise to Glory",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP2292-CUSA12801_00-CR1RELEASE000001/1537900006000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "dd mon 2018",
@@ -65,26 +87,5 @@
     "amazon": "",
     "psn": ""
   },
-  {
-    "title": "Zone of the Enders: The 2nd Runner MARS",
-    "image": "url",
-    "releaseDate": "dd mon 2018",
-    "hasDisc": "&#x2717;",
-    "genre": "genre",
-    "developer": "<a target=\"_blank\" href=\"http://www.dev.com/\">dev</a>",
-    "numberOfPlayers": "1 Player",
-    "PSProEnhanced": "&#x2717",
-    "controlTypes": {
-      "aim": false,
-      "dualshock": false,
-      "flightstick": false,
-      "move": false,
-      "psvr": false,
-      "virzoom": false,
-      "wheel": false
-    },
-    "crossPlatform": { "rift": false, "vive": false },
-    "amazon": "",
-    "psn": ""
-  }
+
 ]

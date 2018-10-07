@@ -1,5 +1,27 @@
 [
   {
+    "title": "Zone of the Enders: The 2nd Runner MARS",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP0101-CUSA10631_00-MAINGAME00000000/1538781578000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "04 Sep 2018",
+    "hasDisc": "",
+    "genre": "Action",
+    "developer": "<a target=\"_blank\" href=\"https://www.konami.com/en/\">Konami Digital Entertainment, Inc.</a>",
+    "numberOfPlayers": "1-2 Players",
+    "PSProEnhanced": "",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": false,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "Firewall: Zero Hour",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP9000-CUSA09831_00-FIREWALL00000000/1538493208000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "28 Aug 2018",
