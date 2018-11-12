@@ -1,5 +1,27 @@
 [
   {
+    "title": "Tetris Effect",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP0751-CUSA13594_00-TETRISEFFECT0000/1541745164000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "09 Nov 2018",
+    "hasDisc": "",
+    "genre": "Puzzle",
+    "developer": "<a target=\"_blank\" href=\"http://enhance-experience.com\">Enhance Games</a>",
+    "numberOfPlayers": "1 Player",
+    "PSProEnhanced": "",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": false,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "Déraciné",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP9000-CUSA11919_00-FIONA000000000US/1541480999000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "06 Nov 2018",
