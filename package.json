@@ -1,6 +1,10 @@
 {
   "name": "psvr-game-list",
+<<<<<<< HEAD
   "version": "1.0.3",
+=======
+  "version": "1.0.4",
+>>>>>>> 3087d91b95bd9853a4c788ff738c2a71e6a80dea
   "description": "A list of PSVR games in JSON format",
   "main": "index.js",
   "scripts": {
