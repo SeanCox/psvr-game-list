@@ -1,5 +1,27 @@
 [
   {
+    "title": "Boxing Apocalypse",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP4466-CUSA11629_00-0000000000BOXAPO/1544643676000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "20 Nov 2018",
+    "hasDisc": "",
+    "genre": "Sports",
+    "developer": "<a target=\"_blank\" href=\"https://www.gothamcityfilmsgaming.com\">Gotham City Films</a>",
+    "numberOfPlayers": "1 Player",
+    "PSProEnhanced": "",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": false,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "Squishies",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP3103-CUSA14149_00-SQUISHIES0000000/1543939153000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "20 Nov 2018",
