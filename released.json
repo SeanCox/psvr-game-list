@@ -1,5 +1,27 @@
 [
   {
+    "title": "Squishies",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP3103-CUSA14149_00-SQUISHIES0000000/1543939153000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "20 Nov 2018",
+    "hasDisc": "",
+    "genre": "Action, puzzle",
+    "developer": "<a target=\"_blank\" href=\"http://www.brainseed-factory.com\">Brainseed Factory</a>",
+    "numberOfPlayers": "1 Player",
+    "PSProEnhanced": "",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": false,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "Tetris Effect",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP0751-CUSA13594_00-TETRISEFFECT0000/1541745164000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "09 Nov 2018",
