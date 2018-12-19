@@ -44,6 +44,28 @@
     "psn": ""
   },
   {
+    "title": "Syren",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP1866-CUSA08254_00-0000000000000010/1541520633000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "06 Nov 2018",
+    "hasDisc": ";",
+    "genre": "Survival horror",
+    "developer": "<a target=\"_blank\" href=\"https://www.hammerheadvr.com\">Hammerhead VR</a>",
+    "numberOfPlayers": "1 Player",
+    "PSProEnhanced": "",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": false,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "Transpose",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP3009-CUSA12678_00-0000000000000001/1543546375000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "06 Nov 2018",
