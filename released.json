@@ -44,6 +44,28 @@
     "psn": ""
   },
   {
+    "title": "BugsBoxVR",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP1355-CUSA10847_00-BUGSBOXVR0000000/1541019766000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "24 Oct 2018",
+    "hasDisc": ";",
+    "genre": "Casual",
+    "developer": "<a target=\"_blank\" href=\"http://www.parkesm.co.kr\">Park ESM</a>",
+    "numberOfPlayers": "1 Player",
+    "PSProEnhanced": "",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": false,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "Neverout",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP4818-CUSA13122_00-GD000001NVRTPSVR/1541001008000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "23 Oct 2018",
