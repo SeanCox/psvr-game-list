@@ -66,6 +66,28 @@
     "psn": ""
   },
   {
+    "title": "Drone Striker",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP2844-CUSA13528_00-DRONESTRIKERUSAA/1545178509000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "16 Oct 2018",
+    "hasDisc": ";",
+    "genre": "Shooter",
+    "developer": "<a target=\"_blank\" href=\"https://www.winkingworks.com/big5/index.html\">Winking Skywalker Ent. Ltd.</a>",
+    "numberOfPlayers": "1 Player",
+    "PSProEnhanced": "",
+    "controlTypes": {
+      "aim": true,
+      "dualshock": true,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "Heavy Fire: Red Shadow",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP1059-CUSA10845_00-HEAVYFIREVRUL000/1539665183000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "16 Oct 2018",
