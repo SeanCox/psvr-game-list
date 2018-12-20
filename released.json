@@ -1,4 +1,27 @@
 [
+
+  {
+    "title": "Beat Saber",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP4882-CUSA12878_00-BEATSABERFULL000/1545272231000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "20 Nov 2018",
+    "hasDisc": "",
+    "genre": "Rhythm",
+    "developer": "<a target=\"_blank\" href=\"http://hyperbolicmagnetism.com\">Hyperbolic Magnetism</a>",
+    "numberOfPlayers": "1 Player",
+    "PSProEnhanced": "",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": false,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
   {
     "title": "Boxing Apocalypse",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP4466-CUSA11629_00-0000000000BOXAPO/1544643676000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
