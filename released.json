@@ -1,5 +1,27 @@
 [
   {
+    "title": "Persona 3: Dancing in Moonlight",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP2611-CUSA12636_00-PERSONA3DUS00000/1545785713000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "04 Dec 2018",
+    "hasDisc": "",
+    "genre": "Music, Rhythm",
+    "developer": "<a target=\"_blank\" href=\"https://atlus.com\">P-Studio</a>",
+    "numberOfPlayers": "1 Player",
+    "PSProEnhanced": "",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": false,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "Persona 5: Dancing in Starlight",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP2611-CUSA12380_00-PERSONA5DUS00000/1545785857000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "04 Dec 2018",
