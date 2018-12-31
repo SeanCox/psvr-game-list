@@ -1,5 +1,27 @@
 [
   {
+    "title": "In Death",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP3226-CUSA13638_00-INDEATHVRREL1000/1545118430000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "27 Nov 2018",
+    "hasDisc": "",
+    "genre": "Shooter",
+    "developer": "<a target=\"_blank\" href=\"http://www.solfar.com\">SOLFAR STUDIOS EHF</a>",
+    "numberOfPlayers": "1 Player",
+    "PSProEnhanced": "",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "Space Pirate Trainer",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP4528-CUSA12885_00-SPTRELEASE000100/1545159847000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "27 Nov 2018",
