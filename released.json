@@ -1,5 +1,27 @@
 [
   {
+    "title": "Prison Boss VR",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP4773-CUSA14625_00-PRISONBOSSVRAMDM/1544026073000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "04 Dec 2018",
+    "hasDisc": "",
+    "genre": "Simulation",
+    "developer": "<a target=\"_blank\" href=\"https://trebuchet.fun\">Trebuchet Studio Inc.</a>",
+    "numberOfPlayers": "1 Player",
+    "PSProEnhanced": "",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": false,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "Rush VR",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP4557-CUSA13596_00-RUSHVRPS20180706/1545785451000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "04 Dec 2018",
