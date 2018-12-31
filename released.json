@@ -1,5 +1,27 @@
 [
   {
+    "title": "Rush VR",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP4557-CUSA13596_00-RUSHVRPS20180706/1545785451000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "04 Dec 2018",
+    "hasDisc": "",
+    "genre": "Sports",
+    "developer": "<a target=\"_blank\" href=\"https://www.thebinarymill.com\">The Binary Mill</a>",
+    "numberOfPlayers": "1 Player",
+    "PSProEnhanced": "",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "AFFECTED: The Manor",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP2992-CUSA14305_00-AFFECTED01FALLEN/1544198873000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "27 Nov 2018",
