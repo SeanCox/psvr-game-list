@@ -760,7 +760,7 @@
       "aim": false,
       "dualshock": true,
       "flightstick": false,
-      "move": true,
+      "move": false,
       "psvr": false,
       "virzoom": false,
       "wheel": false
