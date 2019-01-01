@@ -1,5 +1,27 @@
 [
   {
+    "title": "Beats Fever",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP3329-CUSA14646_00-BEATSFEVER0000AM/1545160462000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "18 Dec 2018",
+    "hasDisc": "",
+    "genre": "Rhythm",
+    "developer": "<a target=\"_blank\" href=\"https://cowlevel.net/element/20030?elite=0\">SHANGHAI CHENYOU INFORMATION TECHNOLOGY CO., LTD.</a>",
+    "numberOfPlayers": "1 Player",
+    "PSProEnhanced": "",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": false,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "Gun Club VR",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP4557-CUSA14598_00-GCVRPSVR20181105/1546361774000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "18 Dec 2018",
