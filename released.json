@@ -1,5 +1,27 @@
 [
   {
+    "title": "Borderlands 2 VR",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP1001-CUSA13897_00-000000000000BLVR/1545272576000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "14 Dec 2018",
+    "hasDisc": "",
+    "genre": "First-Person",
+    "developer": "<a target=\"_blank\" href=\"https://2k.com/en-US/\">2K</a>",
+    "numberOfPlayers": "1 Player",
+    "PSProEnhanced": "",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "Rollercoaster Tycoon Joyride",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP0182-CUSA09879_00-RCTJOYRIDE0SKUUS/1544717199000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "13 Dec 2018",
