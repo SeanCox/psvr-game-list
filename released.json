@@ -792,6 +792,28 @@
     "psn": ""
   },
   {
+    "title": "Unearthing Mars 2: The Ancient War",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP2844-CUSA11635_00-UNEARTHINGMARS2A/1546369483000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "18 Sep 2018",
+    "hasDisc": "",
+    "genre": "",
+    "developer": "<a target=\"_blank\" href=\"https://www.winkingworks.com/big5/index.html\">Winking Skywalker Ent. Ltd.</a>",
+    "numberOfPlayers": "1 Player",
+    "PSProEnhanced": "",
+    "controlTypes": {
+      "aim": true,
+      "dualshock": true,
+      "flightstick": false,
+      "move": false,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "Blind",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP1360-CUSA11632_00-0000000000001105/1537893073000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "18 Sep 2018",
