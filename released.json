@@ -1,8 +1,29 @@
 [
-
+  {
+    "title": "Rollercoaster Tycoon Joyride",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP0182-CUSA09879_00-RCTJOYRIDE0SKUUS/1544717199000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "13 Dec 2018",
+    "hasDisc": "",
+    "genre": "Simulation",
+    "developer": "<a target=\"_blank\" href=\"http://www.nvizzio.com/home/\">Nvizzio Creations, Inc</a>",
+    "numberOfPlayers": "1 Player",
+    "PSProEnhanced": "",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": false,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
   {
     "title": "Richie's Plank Experience",
-    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP1023-CUSA12241_00-GUNGRAVEVRJAP000/1544546119000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP5090-CUSA14576_00-V0000000S0000000/1544631068000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "12 Dec 2018",
     "hasDisc": "",
     "genre": "Adventure",
