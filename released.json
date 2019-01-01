@@ -2872,7 +2872,7 @@
     "controlTypes": {
       "aim": false,
       "dualshock": true,
-      "flightstick": false,
+      "flightstick": true,
       "move": true,
       "psvr": false,
       "virzoom": false,
