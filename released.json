@@ -4951,28 +4951,6 @@
     "psn": ""
   },
   {
-    "title": "The Chainsmokers Paris.VR",
-    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP8828-CUSA07482_00-CHAINSMOKERSVRXX/1498642580000/image?_version%3D00_09_000%26platform%3Dchihiro%26w%3D281%26h%3D281%26bg_color%3D000000%26opacity%3D100&amp;container=docs&amp;gadget=docs&amp;rewriteMime=image/*&amp;resize_h=66&amp;resize_w=70",
-    "releaseDate": "28 Apr 2017",
-    "hasDisc": "&#x2717;",
-    "genre": "Music Experience",
-    "developer": "<a target=\"_blank\" href=\"http://www.moving-picture.com/advertising/what-we-do/vr/\">MPC VR</a>",
-    "numberOfPlayers": "1 Player",
-    "PSProEnhanced": "-",
-    "controlTypes": {
-      "aim": false,
-      "dualshock": true,
-      "flightstick": false,
-      "move": false,
-      "psvr": false,
-      "virzoom": false,
-      "wheel": false
-    },
-    "crossPlatform": { "rift": false, "vive": false },
-    "amazon": "",
-    "psn": ""
-  },
-  {
     "title": "Symphony of the Machine",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP3491-CUSA07952_00-0000000000000000/1493672863000/image?_version%3D00_09_000%26platform%3Dchihiro%26w%3D281%26h%3D281%26bg_color%3D000000%26opacity%3D100&amp;container=docs&amp;gadget=docs&amp;rewriteMime=image/*&amp;resize_h=66&amp;resize_w=70",
     "releaseDate": "25 Apr 2017",
