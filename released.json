@@ -10,7 +10,7 @@
     "PSProEnhanced": "",
     "controlTypes": {
       "aim": false,
-      "dualshock": false,
+      "dualshock": true,
       "flightstick": false,
       "move": false,
       "psvr": false,
