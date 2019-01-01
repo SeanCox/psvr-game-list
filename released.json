@@ -1,5 +1,27 @@
 [
   {
+    "title": "Picture Party VR",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP2513-CUSA10890_00-PPRVR00000000001/1544574920000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "05 Dec 2018",
+    "hasDisc": "",
+    "genre": "Puzzle",
+    "developer": "<a target=\"_blank\" href=\"http://www.vanguardgames.net\">Vanguard Games BV</a>",
+    "numberOfPlayers": "1-2 Players",
+    "PSProEnhanced": "",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": false,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "Arca's Path VR",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP4363-CUSA11701_00-ARCADREAMRIPVR01/1544548068000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "04 Dec 2018",
