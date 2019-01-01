@@ -1,5 +1,27 @@
 [
   {
+    "title": "Gungrave VR U.N",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP1023-CUSA13270_00-GUNGRAVEVREP2JP0/1544545381000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "11 Dec 2018",
+    "hasDisc": "",
+    "genre": "Action",
+    "developer": "<a target=\"_blank\" href=\"http://www.iggymob.com\">Iggymob</a>",
+    "numberOfPlayers": "1 Player",
+    "PSProEnhanced": "",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": false,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "Prey: Typhon Hunter",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP1003-CUSA10578_00-TYPHON0000000000/1544565702000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "11 Dec 2018",
