@@ -748,6 +748,28 @@
     "psn": ""
   },
   {
+    "title": "Evasion",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP1264-CUSA12204_00-4152434849414354/1546456663000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "9 Oct 2018",
+    "hasDisc": "&#x2713;",
+    "genre": "shooter",
+    "developer": "<a target=\"_blank\" href=\"https://www.archiactvr.com\">Archiact Interactive Ltd</a>",
+    "numberOfPlayers": "1-2 Players",
+    "PSProEnhanced": "&#x2717;",
+    "controlTypes": {
+      "aim": true,
+      "dualshock": true,
+      "flightstick": false,
+      "move": false,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "Astro Bot Rescue Mission",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP9000-CUSA12431_00-PLATFORMERVR00US/1538453111000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "02 Oct 2018",
