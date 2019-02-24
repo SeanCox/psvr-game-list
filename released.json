@@ -1,5 +1,27 @@
 [
   {
+    "title": "A Fisherman’s Tale",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP3535-CUSA14202_00-AAFISHERMANSTALE/1549488239000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "22 Jan 2019",
+    "hasDisc": "",
+    "genre": "Puzzle",
+    "developer": "<a target=\"_blank\" href=\"http://www.innerspacevr.com\">Innerspace VR</a>",
+    "numberOfPlayers": "1 Player",
+    "PSProEnhanced": "",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": false,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "Ace Combat 7",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP0700-CUSA05636_00-AC7STANDARDED000/1550593196000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "17 Jan 2019",
