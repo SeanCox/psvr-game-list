@@ -1,5 +1,27 @@
 [
   {
+    "title": "Anyone's Diary",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/IN/en/999/EP5099-CUSA14221_00-2018092515469844/1550822339000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "31 Jan 2019",
+    "hasDisc": "",
+    "genre": "Puzzle",
+    "developer": "<a target=\"_blank\"\">missing</a>",
+    "numberOfPlayers": "1 Player",
+    "PSProEnhanced": "",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "Trainer VR",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP4654-CUSA12796_00-0000000000000002/1550247110000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "29 Jan 2019",
