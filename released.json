@@ -1,5 +1,27 @@
 [
   {
+    "title": "Megalith",
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP2439-CUSA10494_00-MEGALITHPSVRUS01/1549590957000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
+    "releaseDate": "08 Jan 2019",
+    "hasDisc": "",
+    "genre": "Action Shooter",
+    "developer": "<a target=\"_blank\" href=\"https://disruptivegames.com\">Disruptive Games</a>",
+    "numberOfPlayers": "1 Player",
+    "PSProEnhanced": "",
+    "controlTypes": {
+      "aim": false,
+      "dualshock": true,
+      "flightstick": false,
+      "move": true,
+      "psvr": false,
+      "virzoom": false,
+      "wheel": false
+    },
+    "crossPlatform": { "rift": false, "vive": false },
+    "amazon": "",
+    "psn": ""
+  },
+  {
     "title": "VR Apocalypse",
     "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/19/UP2403-CUSA06484_00-NEXTGENVRAP00000/1545188260000/image?w=200&h=200&bg_color=000000&opacity=100&_version=00_09_000",
     "releaseDate": "19 Dec 2018",
